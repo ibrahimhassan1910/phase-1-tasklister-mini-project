@@ -35,3 +35,19 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+#task-list{
+  list-style-type: none;
+  padding: 0;
+  margin-top: 25px;
+  color: rgb(37, 143, 37);
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #333;
+}
+.instructions{
+  font-size: x-small;
+  font-style: italic;
+  font-family: serif;
+  margin-bottom: 2px;
+}
