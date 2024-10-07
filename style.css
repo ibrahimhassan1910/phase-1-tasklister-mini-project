@@ -51,3 +51,21 @@ button {
   font-family: serif;
   margin-bottom: 2px;
 }
+#task-list{
+  color:green;
+  justify-content: space-around;
+  align-items: center;
+}
+.delete-button{
+  margin-left: 70px;
+  margin-bottom: 10px;
+  padding: 5;
+}
+p{
+  color: #555;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  box-shadow: 2px 1px 2px #333;
+}
+
